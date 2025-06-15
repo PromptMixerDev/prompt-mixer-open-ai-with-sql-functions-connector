@@ -20,10 +20,10 @@
     "builtin-modules": "^5.0.0",
     "esbuild": "^0.25.5",
     "openai": "^5.1.1",
-    "pg": "^8.14.1"
+    "pg": "^8.16.0"
   },
   "devDependencies": {
-    "@types/pg": "^8.11.11",
+    "@types/pg": "^8.15.4",
     "eslint": "^9.29.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.4.0",
