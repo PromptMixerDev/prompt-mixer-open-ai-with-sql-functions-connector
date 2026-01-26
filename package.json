@@ -20,7 +20,7 @@
     "builtin-modules": "^5.0.0",
     "esbuild": "^0.27.2",
     "openai": "^6.16.0",
-    "pg": "^8.17.1"
+    "pg": "^8.17.2"
   },
   "devDependencies": {
     "@types/pg": "^8.16.0",
